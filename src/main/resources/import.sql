@@ -1,0 +1,1 @@
+INSERT INTO institucion (nombre_institucion, rif, direccion, telefono, contacto_organizacion, telefono_contacto, cargo_contacto) VALUES ('Hospital', '1150254827', 'Loja', '0981269309', 'kevin@gmail.com', '2107742', 'Gerente General');
